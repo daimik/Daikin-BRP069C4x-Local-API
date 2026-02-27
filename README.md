@@ -2,6 +2,9 @@
 
 Unofficial documentation for the **Daikin BRP069C4x** WiFi adapter local REST API, reverse-engineered from a live device and cross-referenced with the [pydaikin](https://github.com/fredrike/pydaikin) library used by Home Assistant.
 
+<img width="1263" height="958" alt="image" src="https://github.com/user-attachments/assets/c210d53e-5bfa-4341-9a5c-2391eaa9797f" />
+
+
 ## Tested Hardware
 
 | Property | Value |
